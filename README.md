@@ -1,10 +1,8 @@
-
-
-<h1>
+<h2>
     <p align="center">
         CHOI, INJUN
     </p>
-</h1>
+</h2>
 <p align="center">
     30, Gwanak-ro 17-gil, Gwanak-gu, Seoul, Republic of Korea
 </p>
@@ -14,23 +12,25 @@
     </p>
 </h4>
 
+
 ### SUMMARY
 
 *****
 
 #### Technical Skills
 
-* Proficient in Java Spring Framework 3-4-5, Webflux and Javascript ES6.
-* Strong understanding of TDD and DDD (JUnit4, 5, Spock) I prefer JUnit. 
-* Docker & Kubernetes
-* Experienced in Spring Framework for the async.
-* Strong understanding of Object Oriented Programming and the Design Pattern.
-* Proficient in making the framework.
-* Strong understanding of the Async back-end server.
-* Strong understanding of constructing the Database.
-* Skillful in Elasticsearch(ELKR).
-* Experienced in React, React-native using Redux, Saga, NodeJS, Babel and Webpack 2, 3 and 4.
-* Familiar with version control systems (Git and SVN).
+* 스프링 프레임워크 3-4-5, Webflux에 대한 강한 이해도.
+* Javascript ES6에 대한 강한 이해도.
+* TDD and DDD (JUnit4, 5, Spock)에 대한 강한 이해도. (JUnit 선호) 
+* Docker (Docker swarm) 사용경험 (production level)
+* Kubernates (초급)
+* Spring Framework 비동기에 대한 이해도 (CompletableFuture, DeferredResult - production level 사용)
+* Object Oriented Programming(OOP)와 Design Pattern에 대한 이해도.
+* Async back-end server에 대한 이해도.
+* Database설계에 대한 이해도 및 실무 경험.
+* Elasticsearch(ELKR)에 대한 실무경험.
+* React, React-native using Redux, Saga, NodeJS, Babel and Webpack 2, 3 and 4에 대한 실무경험
+* Version control systems (Git and SVN)에 대한 이해도.
 
 #### Qualification Highlights
 
@@ -44,8 +44,8 @@
 
 ***
 
-#### 프로젝트 이름 : Mr.mention 
-Busan, S. Korea | _Sep. 2018 – Mar. 2019_
+#### 프로젝트 이름 : Mr.mention (Busan, S. Korea)
+CTO | _Sep. 2018 – Mar. 2019_
 
 #### 내용
 
@@ -62,6 +62,69 @@ Busan, S. Korea | _Sep. 2018 – Mar. 2019_
 * Developed with ReactJS, Redux, Saga.
 * Managing the dev team.
 
+--- 
+
+#### 프로젝트 이름 : Tapas Media (_Paloalto, CA_)
+Back-end Programming | _Sep. 2018 – Mar. 2019_
+
+#### 내용
+
+* Provided statistical reporting data about clients’ payment history to an employee in the company.
+* Developed the back-end server using the Java Spring framework 4
+* The back-end server is constructed by TDD (Spock) and used CompletedFuture, DeferredResult for asyncronize.
+* Used the mapper (mybatis) for querying of the database.
+* Restful API
+* Scheduler for manufacturing the data
+* Used the Spring Quartz.
+* Front-end Programming
+* Developed with ReactJS, Redux, Saga.
+
+--- 
+
+#### 프로젝트 이름 : VideoFactory (_Sunnyvale, CA & Daejeon, S. Korea_)
+CTO | _Nov. 2015 – Jan. 2018_
+
+#### 내용
+_Back-end Programmer and Dev-ops_
+* Developed the back-end server using the Java Spring framework 3. 
+* Constructed the model of the database of our service using the normalization of the database.
+* Test-driven development with Spock
+* Improved the back-end server to be asyncronized in Spring 4. It made the service more efficient by using less the thread of the servlet and made the code less complex using chaining programming(FR)
+* Packed the common codes which are technically like more cored in order to help co-workers develop the product more easily and concentrate on the only business logic. 
+* For searching and recommending system, built up the system which consists of a NoSQL named Elasticsearch. It helped us analyze the data, and this log data was used to understand user preference.
+* Developed the payment system and the framework using the third-party system. The most important thing is to construct the system of the payment, and the next is to pack the code with the common part. This will help co-workers to concentrate on the business logic.
+* The systems and algorithms I mentioned above were built in AWS. And the servers were made using load-balancing and auto-scaling etc for high availability.
+* Built up the building system which was combined with the Jenkins and the Github. It saved a lot of time for building the system using just one click.
+* Developed the web service to manage the service. The functions include to deal with the service data and some other stuff. This admin site was used to the authorization system to access the page depending on the users who are employees having the correct authorization. Developed the system to check out the statistic data for the service which was developed with Elasticsearch.
+
+_Android Programmer_
+* Developed the front-end framework using Android SDK for being more comfortable according to the OOP and the design pattern, and some of them consisted of RxJava(Reactive-Stream). 
+* Integrated with the API from the back-end server using a custom Retrofit framework.
+
+--- 
+
+#### 프로젝트 이름 : ERP(MIS & PMS) for the Korean public institutions (ETRI, IBS, KBSI) (_Daejeon, S. Korea_)
+주니어 | _Nov. 2013 – Oct. 2015_
+
+#### 내용
+_Back-end Programmer_
+* Developed the ERP, Also had a role in the part of the account, budget, hr, etc.
+* Packed the common codes which are technically like more cored in order to make co-workers develop the product more easily and concentrate on the only business logic through the servlet in Java.
+* Constructed the database model account, budget, hr
+* Combined the system with the bank and government system in order to integrate the data using the API they provided to us.
+
+_Front-end Programmer_
+* Developed the user interface with JSP and jQuery.
+
+--- 
+
+#### 프로젝트 이름 : Integrated management system for the research project from all the Korean government agencies and institutions. (KISTI) (_Daejeon, S. Korea_)
+주니어 | _Aug. 2013 – Nov. 2013_
+
+#### 내용
+_Web Programmer_
+* Developed the system using the servlet of Java, and the front-end was constructed with JSP, jQuery.
+* Integrated with the NTIS (National Science & Technology Information Service) 
 
 ### Technical Skill
 
