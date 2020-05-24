@@ -1,5 +1,9 @@
 
-<p align="center"><font size="6" font-weight="bold">CHOI, INJUN</font></p>
+
+<h1><p align="center">
+    CHOI, INJUN
+</h1></p>
+
 
 <center>
     <font size="1.8" >
