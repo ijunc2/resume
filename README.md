@@ -1,7 +1,5 @@
 
-<center>
-    <font size="6" font-weight="bold">CHOI, INJUN</font>
-</center>
+<p align="center"><font size="6" font-weight="bold">CHOI, INJUN</p>
 <center>
     <font size="1.8" >
        30, Gwanak-ro 17-gil, Gwanak-gu, Seoul, Republic of Korea
