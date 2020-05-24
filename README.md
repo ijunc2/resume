@@ -1,20 +1,18 @@
 
 
-<h1><p align="center">
-    CHOI, INJUN
-</h1></p>
-
-
-<center>
-    <font size="1.8" >
-       30, Gwanak-ro 17-gil, Gwanak-gu, Seoul, Republic of Korea
-    </font>
-</center>
-<center>
-    <font size="2.5" font-weight="bold">
+<h1>
+    <p align="center">
+        CHOI, INJUN
+    </p>
+</h1>
+<p align="center">
+    30, Gwanak-ro 17-gil, Gwanak-gu, Seoul, Republic of Korea
+</p>
+<h4>
+    <p align="center">
         +82 10.8336.7111 | ijunc2@gmail.com | https://ijunc2.github.io
-    </font>
-</center>
+    </p>
+</h4>
 
 <font size="4" font-weight="bold">SUMMARY</font>
 
