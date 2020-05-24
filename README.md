@@ -17,7 +17,7 @@
 
 *****
 
-#### Technical Skills
+#### Technical Skills Highlights
 
 * 스프링 프레임워크 3-4-5, Webflux에 대한 강한 이해도.
 * Javascript ES6에 대한 강한 이해도.
