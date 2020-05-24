@@ -15,7 +15,7 @@
 
 <font size="4" font-weight="bold">SUMMARY</font>
 
----
+*****
 
 | Technical Skills | Qualification Highlights |
 |:----------|:------|
