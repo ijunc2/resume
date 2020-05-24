@@ -15,8 +15,6 @@
 
 ## SUMMARY
 
-*****
-
 #### Technical Skills Highlights
 
 * 스프링 프레임워크 3-4-5, Webflux에 대한 강한 이해도.
@@ -128,8 +126,6 @@ _Web Programmer_
 
 ## Technical Skill
 
-***
-
 #### Program Languages
 
 * Proficient in Java such as Spring5 and Webflux
@@ -157,7 +153,6 @@ Skillful on using the tools in the AWS such as ELB, Auto-Scaling, Route53, AMIs.
 * Proficient in the Ubuntu.
 
 ## EDUCATION
-***
 #### Ulsan University (Ulsan, S. Korea )
 Bachelor’s Degree in Computer Science Engineering (_Mar. 2006 – Feb. 2011_)
 
