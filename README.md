@@ -53,6 +53,7 @@ Combined the system with the bank and government system in order to integrate th
 Front-end Programmer 
 Developed the user interface with JSP and jQuery. 
 </br>
+
 |||
 |:-------|------:|
 |Integrated management system for the research project from all the Korean government agencies and institutions.|<div width='150px'>Daejeon, S. Korea</div>|
