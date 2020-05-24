@@ -40,8 +40,6 @@
 
 ## PROFESSIONAL EXPERIENCE
 
-***
-
 #### 프로젝트 이름 : Mr.mention (Busan, S. Korea)
 CTO | _Sep. 2018 – Mar. 2019_
 
