@@ -13,7 +13,7 @@
 </h4>
 
 
-### SUMMARY
+## SUMMARY
 
 *****
 
@@ -40,7 +40,7 @@
 
 
 
-### PROFESSIONAL EXPERIENCE
+## PROFESSIONAL EXPERIENCE
 
 ***
 
@@ -126,7 +126,7 @@ _Web Programmer_
 * Developed the system using the servlet of Java, and the front-end was constructed with JSP, jQuery.
 * Integrated with the NTIS (National Science & Technology Information Service) 
 
-### Technical Skill
+## Technical Skill
 
 ***
 
@@ -156,7 +156,7 @@ Skillful on using the tools in the AWS such as ELB, Auto-Scaling, Route53, AMIs.
 * Nginx. (Load-balancing in application layer - reverse proxy)
 * Proficient in the Ubuntu.
 
-#### EDUCATION
+## EDUCATION
 ***
 #### Ulsan University (Ulsan, S. Korea )
 Bachelor’s Degree in Computer Science Engineering (_Mar. 2006 – Feb. 2011_)
