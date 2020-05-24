@@ -14,13 +14,13 @@
     </p>
 </h4>
 
-<font size="4" font-weight="bold">SUMMARY</font>
+### SUMMARY
 
 *****
 
 | Technical Skills | Qualification Highlights |
 |:----------|:------|
-|Proficient in Java Spring Framework 3-4 and Javascript ES6.</br> Experienced in Spring Framework for the async.</br>Strong understanding of Object Oriented Programming and the Design Pattern.</br>Proficient in making the framework.Strong understanding of the Async back-end server.</br>Strong understanding of constructing the Database.</br>Skillful in Elasticsearch(ELKR).</br>Experienced in React, React-native using Redux, Saga, NodeJS, Babel and Webpack 2-3.</br>Familiar with version control systems (Git and SVN)| Developed a integrated management system for the research projects from all the Korean government agencies and institutions.</br> Worked with the Korean government agency called KISTI.</br>Developed 3 projects in the Korean government institutions such as ETRI, IBS, KBSI using the web-solution.</br>Constructed the back-end server Java spring and made a video service in the Start-up.|
+| * Proficient in Java Spring Framework 3-4 and Javascript ES6.</br> * Experienced in Spring Framework for the async.</br>Strong understanding of Object Oriented Programming and the Design Pattern.</br>Proficient in making the framework.Strong understanding of the Async back-end server.</br>Strong understanding of constructing the Database.</br>Skillful in Elasticsearch(ELKR).</br>Experienced in React, React-native using Redux, Saga, NodeJS, Babel and Webpack 2-3.</br>Familiar with version control systems (Git and SVN)| Developed a integrated management system for the research projects from all the Korean government agencies and institutions.</br> Worked with the Korean government agency called KISTI.</br>Developed 3 projects in the Korean government institutions such as ETRI, IBS, KBSI using the web-solution.</br>Constructed the back-end server Java spring and made a video service in the Start-up.|
 </br>
 <font size="4" font-weight="bold">
     PROFESSIONAL EXPERIENCE
