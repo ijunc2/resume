@@ -1,6 +1,6 @@
 <h2>
     <p align="center">
-        CHOI, INJUN
+        CHOI, INJUN (준비중...)
     </p>
 </h2>
 <p align="center">
