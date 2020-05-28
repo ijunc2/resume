@@ -48,7 +48,7 @@ CTO | _Sep. 2019.05 - _
 * 기존에 존재하던 솔루션과 데이터 통합을 위한 설계 및 데이터 마이그레이션
 * Spring Boot2 (Webflux)를 활용해서 BE 구축 (일반 API, SESSION API)
 * React 를 활용해서 FE 구축 (ReactJS, Redux, Saga)
-* Apple HLS를 활용한 영상 인코딩 및 서버 설계 (S3, LAMBDA, MEDIACONVERT 연계)
+* 대용량 파일업로드 및 Apple HLS를 활용한 영상 인코딩 시스템 구축 (S3, LAMBDA, MEDIACONVERT, EVENT 연계)
 * Cloudwatch를 활용한 로깅 with GA (모니터링으로도 활용)
 * BE - TDD 기반의 테스트 코드 작성
 * ECS(FARGATE)를 활용한 INFRA 구축 (VPN - 3TIER)
@@ -101,9 +101,11 @@ _Back-end Programmer and Dev-ops_
 * Github, Jenkins 를 활용한 CI/CD 구축.
 
 _Android Programmer_
-* Developed the front-end framework using Android SDK for being more comfortable according to the OOP and the design pattern, and some of them consisted of RxJava(Reactive-Stream). 
-* Integrated with the API from the back-end server using a custom Retrofit framework.
+* Android SDK 를 활용한 영상 스트리밍 서비스 개발 
+* 카메라 촬영후 편집 기능개발 (필터링, 배경음악 합성)
 
+* 10만명의 유저 : DAU 2만
+  
 --- 
 
 #### 프로젝트 이름 : ERP(MIS & PMS) for the Korean public institutions (ETRI, IBS, KBSI) (_Daejeon, S. Korea_)
@@ -133,29 +135,37 @@ _Web Programmer_
 
 #### Program Languages
 
-* Proficient in Java such as Spring5 and Webflux
-* Proficient in Java such as Spring Framework 3-4. Particularly, strongly understand the async(multi-threading). 
-* String understanding of Spring data (JPA(+Hibernate) ORM) and Mapper (MyBatis)
-* Proficient about Restful (HATOAS, LINK OF CASCADED ACTION) 
-* Proficient in the javascript like jquery, NodeJS and React with React-redux, React-saga, and have a diverse pattern for using React. (Flux Pattern, Atomic Design)
-* High Comprehension of the Object Oriented Programming and the Design Pattern. 
-* Good understanding of Functional Programming using RxJava, RxJS.
+* AWS를 활용한 인프라구축 (ECS, EC2, S3, RDS, CLOUDWATCH, LAMBDA, MEDIACONVERT등)
+* Google Speech를 활용한 영상 to text 시스템 구축 (연구과제)
+* Spring3, 4, 5 and Webflux에 대한 이해도 및 실무경험 (Spring XML, Spring Boot 1.5 & 2에 대한 실무 경험)
+* 자바 Async(multi-threading)에 대한 이해도 및 실무경험
+* JPA(+Hibernate) ORM and Mapper (MyBatis)에 대한 이해도 및 실무경험
+* Restful (HATOAS, LINK OF CASCADED ACTION)에 대한 이해도 및 실무경험
+* jquery, NodeJS and React with React-redux, React-saga에 대한 이해도 및 실무경험
+* Object Oriented Programming and the Design Pattern에 대한 이해도
+* Functional Programming using RxJava, RxJS에 대한 이해도
 
 #### Database
 
-* High comprehension of the normalization of the RDB such as MariaDB, Mysql, Oracle. 
-* Experienced in structuring the model of the master-slave for high availability in the MariaDB and Mysql without using the RDS in AWS. 
-* Good understanding of modeling the NoSQL using the Elasticsearch. 
-* To Cluster the Elasticsearch for high availability with being separated with depending on their roles.
+* MariaDB, Mysql, Oracle에 대한 이해도 및 실무경험.
+* AWS EC2에 MariaDB를 설치후, 고가용성 구조 설계 (Master-Slave 구축 및 BE에서 slave db접근시, LOAD BALANCING 모듈구축)
+* Elasticsearch에 대한 이해도 및 실무경험 (검색서버)
+* 고가용 Elasticsearch 설계를 위한 Cluster 구축
 
 #### AWS
-* To Construct the building system integrating the Jenkins and Github. 
-Skillful on using the tools in the AWS such as ELB, Auto-Scaling, Route53, AMIs. 
+
+* ECS (FARGATE)를 사용한 인프라 구축.
+* 대용량 파입업로드 및 인코딩을 위한 인프라 구축 (S3, LAMBDA, MEDIACONVERT, EVENT)
+* SQS를 활용한 검색 인덱스업데이트 인프라 구축
+* 3TIER VPN망 구축.
+* EC2 - ELB, AUTO SCALING 구축
+* RDS 활용경험
+* Jenkins, Github를 활용한 CI/CD 구축
 
 #### ETC
 * Tomcat 8 - 8.5
 * Nginx. (Load-balancing in application layer - reverse proxy)
-* Proficient in the Ubuntu.
+* 리눅스에 대한 이해도 및 실무경험.
 
 ## EDUCATION
 #### Ulsan University (Ulsan, S. Korea )
