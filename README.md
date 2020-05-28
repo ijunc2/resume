@@ -168,6 +168,9 @@ _Web Programmer_
 * 리눅스에 대한 이해도 및 실무경험.
 
 ## EDUCATION
-#### Ulsan University (Ulsan, S. Korea )
+#### Ulsan University _(Ulsan, S. Korea )_
 Bachelor’s Degree in Computer Science Engineering (_Mar. 2006 – Feb. 2011_)
+
+#### De azna CC _(Cupertino, USA) 휴학중_
+Bachelor’s Degree in Computer Science Engineering (_Mar. 2018 – )
 
