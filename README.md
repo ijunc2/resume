@@ -40,7 +40,7 @@
 ## PROFESSIONAL EXPERIENCE
 
 #### 프로젝트 이름 : Santa (Seoul, S. Korea)
-CTO | _Sep. 2019.05 -_
+Engineer | _Sep. 2019.05 -_
 
 #### 내용
 
